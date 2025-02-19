@@ -1,7 +1,7 @@
 # Snake-Water-Gun-Game
 
 ## About
-The **Snake-Water-Gun Game** is a simple Python-based command-line game inspired by the classic "Rock, Paper, Scissors" game. In this game, the player competes against the computer by selecting one of three options: **Snake, Water, or Gun**.
+The **Snake-Water-Gun Game** is a simple Python-based command-line game inspired by the classic "Rock, Paper, Scissors" game. In this game, the player competes against the computer by selecting one of three options: **Snake, Water, or Gun**. It was fun to make this game and bring this classic idea to life!
 
 ## Rules
 - **Snake vs. Water** → **Snake wins** (Snake drinks the water)
